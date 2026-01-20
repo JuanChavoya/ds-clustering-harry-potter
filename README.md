@@ -1,9 +1,5 @@
 # Clustering de Personajes de Harry Potter
 
-Proyecto de **Ciencia de Datos** enfocado en la aplicación de técnicas de **aprendizaje no supervisado** para identificar patrones y perfiles de personajes del universo de *Harry Potter*, a partir de variables narrativas y emocionales.
-
-Este proyecto forma parte de mi **portafolio profesional** como Data Scientist junior y tiene como objetivo demostrar mi capacidad para realizar análisis exploratorio, preparación de datos, modelado y comunicación de resultados.
-
 ---
 
 ## Objetivo del proyecto
